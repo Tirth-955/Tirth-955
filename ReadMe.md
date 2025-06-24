@@ -2,7 +2,6 @@ Hi, I'm Tirth Chaudhari 👋
 
 Software Developer | Backend Developer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/tirth-chaudhari-b1aa85368) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ctirth955@gmail.com) 
 ---
 
 ## About Me
