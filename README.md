@@ -7,10 +7,9 @@ I'm a pre-final year Computer Engineering student passionate about solving real-
 <!-- I'm Tirth Chaudhari a pre-final year computer engineering student with a passion for problem-solving and web development. I have strong problem-solving skills and am proficient in web development technologies such as HTML, CSS, JavaScript, NodeJS, ExpressJS, Databases and little bit of React. I am eager to learn and always seeking new challenges to create intuitive and user-friendly web applications. My ultimate goal is to make a meaningful contribution to the technology industry. -->
 
 ## Contact 
-<br>
 
 <!-- contact -->
-<p align="center">
+<p>
 	<a href="https://www.linkedin.com/in/tirth-chaudhari-b1aa85368/" target="_blank">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
@@ -20,19 +19,17 @@ I'm a pre-final year Computer Engineering student passionate about solving real-
   <a href="mailto:ctirth955@gmail.com">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
-<br><br>
-<a href="https://github.com/Tirth-955">
+<br>
+<!-- <a href="https://github.com/Tirth-955">
     <img src="https://komarev.com/ghpvc/?username=Tirth-955&style=flat-square">
-</a>
-	<a href="https://github.com/Tirth-955">
+</a> -->
+	<!-- <a href="https://github.com/Tirth-955">
         <img height="20" src="https://img.shields.io/github/followers/Tirth-955?label=follow&logo=github" />
 	</a>
 	 <a href="https://github.com/Tirth-955">
         <img height="20" src="https://img.shields.io/github/stars/Tirth-955?label=stars&logo=github" />
-	</a>
-
+	</a> -->
 </p>
-
 
 <hr>
 
