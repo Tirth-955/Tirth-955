@@ -11,9 +11,9 @@ I'm a pre-final year Computer Engineering student passionate about solving real-
 
 <!-- contact -->
 <p>
-	<a href="https://www.linkedin.com/in/tirth-chaudhari-b1aa85368/" target="_blank">
+	<!-- <a href="https://www.linkedin.com/in/tirth-chaudhari/" target="_blank">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-	</a>
+	</a> -->
 	<!-- <a href="https://twitter.com/">
 		<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 	</a> -->
