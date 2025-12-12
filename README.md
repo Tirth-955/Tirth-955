@@ -129,6 +129,6 @@
 
 <p align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=Tirth-955&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false"/><br/> -->
-  <!-- <img src="https://nirzak-streak-stats.vercel.app/?user=Tirth-955&theme=shadow_blue&hide_border=false"/><br/> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tirth-955&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Tirth-955&theme=shadow_blue&hide_border=false"/><br/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tirth-955&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/> -->
 </p>
