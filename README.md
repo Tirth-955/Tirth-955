@@ -116,7 +116,7 @@
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
 ![IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;
 
-![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+<!-- ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif) -->
 
 <!-- ### Libraries & Framework -->
 <!-- ![jquey](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white) -->
@@ -126,10 +126,10 @@
 
 <!-- <hr> -->
 
-## 📊 GitHub Stats:
+<!-- ## 📊 GitHub Stats: -->
 
-<p align="center">
+<!-- <p align="center"> -->
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=Tirth-955&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false"/><br/> -->
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Tirth-955&theme=shadow_blue&hide_border=false"/><br/>
+  <!-- <img src="https://nirzak-streak-stats.vercel.app/?user=Tirth-955&theme=shadow_blue&hide_border=false"/><br/> -->
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tirth-955&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/> -->
-</p>
+<!-- </p> -->
